@@ -1,4 +1,4 @@
-package com.delivery.mono.global.config;
+package com.delivery.mono.core.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;

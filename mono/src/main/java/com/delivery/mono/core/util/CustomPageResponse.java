@@ -1,4 +1,4 @@
-package com.delivery.mono.global.util;
+package com.delivery.mono.core.util;
 
 import lombok.Getter;
 import lombok.Setter;

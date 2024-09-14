@@ -1,4 +1,4 @@
-package com.delivery.mono.global.audit;
+package com.delivery.mono.core.audit;
 
 import org.springframework.data.domain.AuditorAware;
 import org.springframework.security.core.context.SecurityContextHolder;

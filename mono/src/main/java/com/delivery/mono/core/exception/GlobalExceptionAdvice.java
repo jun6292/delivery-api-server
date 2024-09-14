@@ -1,6 +1,6 @@
-package com.delivery.mono.global.exception;
+package com.delivery.mono.core.exception;
 
-import com.delivery.mono.global.exception.response.ErrorResponse;
+import com.delivery.mono.core.exception.response.ErrorResponse;
 import jakarta.validation.ConstraintViolationException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;

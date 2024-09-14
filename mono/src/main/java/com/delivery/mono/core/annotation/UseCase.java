@@ -1,4 +1,4 @@
-package com.delivery.mono.global.annotation;
+package com.delivery.mono.core.annotation;
 
 import org.springframework.core.annotation.AliasFor;
 import org.springframework.stereotype.Component;

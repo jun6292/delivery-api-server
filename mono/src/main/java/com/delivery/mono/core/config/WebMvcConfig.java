@@ -1,7 +1,7 @@
-package com.delivery.mono.global.config;
+package com.delivery.mono.core.config;
 
-import com.delivery.mono.global.interceptor.UserIdArgumentResolver;
-import com.delivery.mono.global.interceptor.UserIdInterceptor;
+import com.delivery.mono.core.interceptor.UserIdArgumentResolver;
+import com.delivery.mono.core.interceptor.UserIdInterceptor;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.method.support.HandlerMethodArgumentResolver;

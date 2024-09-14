@@ -1,4 +1,4 @@
-package com.delivery.mono.global.audit;
+package com.delivery.mono.core.audit;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.EntityListeners;

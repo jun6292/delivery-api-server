@@ -1,6 +1,6 @@
-package com.delivery.mono.global.exception.response;
+package com.delivery.mono.core.exception.response;
 
-import com.delivery.mono.global.exception.ExceptionCode;
+import com.delivery.mono.core.exception.ExceptionCode;
 import lombok.Getter;
 import org.springframework.http.HttpStatus;
 

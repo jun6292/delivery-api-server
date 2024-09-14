@@ -1,4 +1,4 @@
-package com.delivery.mono.global.exception;
+package com.delivery.mono.core.exception;
 
 import lombok.Getter;
 

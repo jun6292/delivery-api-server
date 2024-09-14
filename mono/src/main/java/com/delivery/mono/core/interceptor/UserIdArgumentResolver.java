@@ -1,8 +1,8 @@
-package com.delivery.mono.global.interceptor;
+package com.delivery.mono.core.interceptor;
 
-import com.delivery.mono.global.annotation.UserId;
-import com.delivery.mono.global.exception.BusinessLogicException;
-import com.delivery.mono.global.exception.ExceptionCode;
+import com.delivery.mono.core.exception.BusinessLogicException;
+import com.delivery.mono.core.exception.ExceptionCode;
+import com.delivery.mono.core.annotation.UserId;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.core.MethodParameter;
 import org.springframework.stereotype.Component;
