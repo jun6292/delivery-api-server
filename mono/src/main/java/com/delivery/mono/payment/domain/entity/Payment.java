@@ -1,6 +1,6 @@
 package com.delivery.mono.payment.domain.entity;
 
-import com.delivery.mono.global.audit.AuditingEntity;
+import com.delivery.mono.core.audit.AuditingEntity;
 import com.delivery.mono.order.domain.entity.Order;
 import com.delivery.mono.payment.domain.enums.PaymentMethodEnum;
 import com.delivery.mono.payment.domain.enums.PaymentStatusEnum;

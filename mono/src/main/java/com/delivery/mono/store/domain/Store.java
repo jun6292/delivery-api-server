@@ -1,7 +1,7 @@
 package com.delivery.mono.store.domain;
 
 import com.delivery.mono.category.domain.StoreCategoryMapper;
-import com.delivery.mono.global.audit.AuditingEntity;
+import com.delivery.mono.core.audit.AuditingEntity;
 import com.delivery.mono.product.domain.Product;
 import com.delivery.mono.user.domain.User;
 import jakarta.persistence.*;

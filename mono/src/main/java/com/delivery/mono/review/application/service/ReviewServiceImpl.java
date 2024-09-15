@@ -1,7 +1,7 @@
 package com.delivery.mono.review.application.service;
 
-import com.delivery.mono.global.exception.BusinessLogicException;
-import com.delivery.mono.global.exception.ExceptionCode;
+import com.delivery.mono.core.exception.BusinessLogicException;
+import com.delivery.mono.core.exception.ExceptionCode;
 import com.delivery.mono.order.domain.entity.Order;
 import com.delivery.mono.order.domain.repository.OrderRepository;
 import com.delivery.mono.review.application.dto.*;

@@ -1,6 +1,6 @@
 package com.delivery.mono.report.controller;
 
-import com.delivery.mono.global.annotation.UserId;
+import com.delivery.mono.core.annotation.UserId;
 import com.delivery.mono.report.dto.CreateReplyRequestDto;
 import com.delivery.mono.report.usecase.CreateReportUseCase;
 import com.delivery.mono.report.usecase.DeleteReportUseCase;

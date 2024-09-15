@@ -5,8 +5,8 @@ import com.delivery.mono.category.domain.StoreCategory;
 import com.delivery.mono.category.repository.LocalCategoryRepository;
 import com.delivery.mono.category.repository.StoreCategoryRepository;
 import com.delivery.mono.category.usecase.DeleteCategoryUseCase;
-import com.delivery.mono.global.exception.BusinessLogicException;
-import com.delivery.mono.global.exception.ExceptionCode;
+import com.delivery.mono.core.exception.BusinessLogicException;
+import com.delivery.mono.core.exception.ExceptionCode;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

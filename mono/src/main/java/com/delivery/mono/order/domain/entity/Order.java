@@ -1,6 +1,6 @@
 package com.delivery.mono.order.domain.entity;
 
-import com.delivery.mono.global.audit.AuditingEntity;
+import com.delivery.mono.core.audit.AuditingEntity;
 import com.delivery.mono.order.domain.enums.OrderStatusEnum;
 import com.delivery.mono.review.domain.entity.Review;
 import com.delivery.mono.store.domain.Store;

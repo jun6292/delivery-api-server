@@ -4,8 +4,8 @@ import com.delivery.mono.delivery.domain.Delivery;
 import com.delivery.mono.delivery.dto.DeliveryRequestDto;
 import com.delivery.mono.delivery.dto.DeliveryResponseDto;
 import com.delivery.mono.delivery.repository.DeliveryRepository;
-import com.delivery.mono.global.exception.BusinessLogicException;
-import com.delivery.mono.global.exception.ExceptionCode;
+import com.delivery.mono.core.exception.BusinessLogicException;
+import com.delivery.mono.core.exception.ExceptionCode;
 import com.delivery.mono.user.domain.User;
 import com.delivery.mono.user.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
@@ -19,7 +19,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 import java.util.UUID;
 
-import static com.delivery.mono.global.exception.ExceptionCode.*;
+import static com.delivery.mono.core.exception.ExceptionCode.*;
 
 @Service
 @RequiredArgsConstructor

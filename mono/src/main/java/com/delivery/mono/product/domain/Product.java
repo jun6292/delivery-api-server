@@ -1,13 +1,12 @@
 package com.delivery.mono.product.domain;
 
-import com.delivery.mono.global.audit.AuditingEntity;
+import com.delivery.mono.core.audit.AuditingEntity;
 import com.delivery.mono.product.dto.ProductRequestDto;
 import com.delivery.mono.store.domain.Store;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import org.hibernate.annotations.ColumnDefault;
 
 import java.util.UUID;
 

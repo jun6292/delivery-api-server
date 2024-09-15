@@ -1,6 +1,6 @@
 package com.delivery.mono.review.domain.entity;
 
-import com.delivery.mono.global.audit.AuditingEntity;
+import com.delivery.mono.core.audit.AuditingEntity;
 import com.delivery.mono.order.domain.entity.Order;
 import com.delivery.mono.store.domain.Store;
 import com.delivery.mono.user.domain.User;

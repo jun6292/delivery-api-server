@@ -1,6 +1,6 @@
 package com.delivery.mono.report.usecase;
 
-import com.delivery.mono.global.annotation.UseCase;
+import com.delivery.mono.core.annotation.UseCase;
 import com.delivery.mono.report.dto.ReportDetailResponseDto;
 import com.delivery.mono.report.dto.ReportSummaryResponseDto;
 import org.springframework.data.domain.Page;

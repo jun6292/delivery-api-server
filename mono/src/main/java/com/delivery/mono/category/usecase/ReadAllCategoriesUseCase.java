@@ -1,7 +1,7 @@
 package com.delivery.mono.category.usecase;
 
 import com.delivery.mono.category.dto.CategoryResponseDto;
-import com.delivery.mono.global.annotation.UseCase;
+import com.delivery.mono.core.annotation.UseCase;
 
 import java.util.List;
 

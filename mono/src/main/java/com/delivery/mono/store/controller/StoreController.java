@@ -1,6 +1,6 @@
 package com.delivery.mono.store.controller;
 
-import com.delivery.mono.global.annotation.UserId;
+import com.delivery.mono.core.annotation.UserId;
 import com.delivery.mono.store.dto.CreateStoreRequestDto;
 import com.delivery.mono.store.dto.UpdateStoreRequestDto;
 import com.delivery.mono.store.usecase.*;

@@ -1,7 +1,7 @@
 package com.delivery.mono.report.service;
 
-import com.delivery.mono.global.exception.BusinessLogicException;
-import com.delivery.mono.global.exception.ExceptionCode;
+import com.delivery.mono.core.exception.BusinessLogicException;
+import com.delivery.mono.core.exception.ExceptionCode;
 import com.delivery.mono.report.domain.Report;
 import com.delivery.mono.report.dto.ReportDetailResponseDto;
 import com.delivery.mono.report.dto.ReportSummaryResponseDto;

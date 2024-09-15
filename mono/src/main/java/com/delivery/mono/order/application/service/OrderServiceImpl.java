@@ -2,8 +2,8 @@ package com.delivery.mono.order.application.service;
 
 import com.delivery.mono.delivery.domain.Delivery;
 import com.delivery.mono.delivery.repository.DeliveryRepository;
-import com.delivery.mono.global.exception.BusinessLogicException;
-import com.delivery.mono.global.exception.ExceptionCode;
+import com.delivery.mono.core.exception.BusinessLogicException;
+import com.delivery.mono.core.exception.ExceptionCode;
 import com.delivery.mono.order.application.dto.OrderListDTO;
 import com.delivery.mono.order.application.dto.OrderRequestDTO;
 import com.delivery.mono.order.application.dto.OrderResponseDTO;

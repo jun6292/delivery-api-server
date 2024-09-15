@@ -1,6 +1,6 @@
 package com.delivery.mono.report.domain;
 
-import com.delivery.mono.global.audit.AuditingEntity;
+import com.delivery.mono.core.audit.AuditingEntity;
 import com.delivery.mono.report.domain.type.EReportStatus;
 import com.delivery.mono.report.domain.type.EReportTargetType;
 import com.delivery.mono.user.domain.User;

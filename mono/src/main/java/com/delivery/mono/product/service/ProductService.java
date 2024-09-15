@@ -1,8 +1,8 @@
 package com.delivery.mono.product.service;
 
-import com.delivery.mono.global.exception.BusinessLogicException;
-import com.delivery.mono.global.exception.ExceptionCode;
-import com.delivery.mono.global.util.CustomPageResponse;
+import com.delivery.mono.core.exception.BusinessLogicException;
+import com.delivery.mono.core.exception.ExceptionCode;
+import com.delivery.mono.core.util.CustomPageResponse;
 import com.delivery.mono.product.domain.Product;
 import com.delivery.mono.product.dto.ProductRequestDto;
 import com.delivery.mono.product.dto.ProductResponseDto;

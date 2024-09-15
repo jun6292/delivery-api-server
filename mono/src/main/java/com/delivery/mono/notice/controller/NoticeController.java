@@ -1,6 +1,6 @@
 package com.delivery.mono.notice.controller;
 
-import com.delivery.mono.global.annotation.UserId;
+import com.delivery.mono.core.annotation.UserId;
 import com.delivery.mono.notice.dto.NoticeCreateRequestDto;
 import com.delivery.mono.notice.dto.NoticeUpdateRequestDto;
 import com.delivery.mono.notice.usecase.CreateNoticeUseCase;

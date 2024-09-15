@@ -1,6 +1,6 @@
 package com.delivery.mono.notice.domain;
 
-import com.delivery.mono.global.audit.AuditingEntity;
+import com.delivery.mono.core.audit.AuditingEntity;
 import com.delivery.mono.user.domain.User;
 import jakarta.persistence.*;
 import lombok.AccessLevel;

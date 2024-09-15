@@ -1,6 +1,6 @@
 package com.delivery.mono.category.domain;
 
-import com.delivery.mono.global.audit.AuditingEntity;
+import com.delivery.mono.core.audit.AuditingEntity;
 import com.delivery.mono.store.domain.Store;
 import jakarta.persistence.*;
 import lombok.AccessLevel;

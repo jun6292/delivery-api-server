@@ -1,13 +1,10 @@
 package com.delivery.mono.product.controller;
 
-import com.delivery.mono.global.util.CustomPageResponse;
-import com.delivery.mono.product.domain.Product;
+import com.delivery.mono.core.util.CustomPageResponse;
 import com.delivery.mono.product.service.ProductService;
 import com.delivery.mono.product.dto.ProductRequestDto;
 import com.delivery.mono.product.dto.ProductResponseDto;
-import lombok.Getter;
 import lombok.RequiredArgsConstructor;
-import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

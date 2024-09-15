@@ -1,7 +1,7 @@
 package com.delivery.mono.order.domain.entity;
 
 import com.delivery.mono.delivery.domain.Delivery;
-import com.delivery.mono.global.audit.AuditingEntity;
+import com.delivery.mono.core.audit.AuditingEntity;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
